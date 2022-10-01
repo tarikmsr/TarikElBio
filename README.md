@@ -1,1 +1,3 @@
-# TarikElBio
+- 👋 Hi, I’m Tarik EL MSAOURI.
+- 👀 I’m interested in Software Engineer.
+- 📫 How to reach me https://www.linkedin.com/in/tarik-el-msaouri-8a257018a/
