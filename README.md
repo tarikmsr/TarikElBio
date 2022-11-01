@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Tarik EL MSAOURI.
 - 👀 I’m interested in Software Engineering.
-- 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri)
+- 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri){:target="_blank" rel="noopener"}
 - <a href="https://www.linkedin.com/in/tarik-el-msaouri" target="_blank">Linkedin</a>
 
 
