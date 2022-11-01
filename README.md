@@ -3,7 +3,9 @@
 
 - 👋 Hi, I’m Tarik EL MSAOURI.
 - 👀 I’m interested in Software Engineering.
-- 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri) <a target="_blank" href="https://www.linkedin.com/in/tarik-el-msaouri">[Linkedin]</a>
+- 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri)
+- <a href="[https://www.w3schools.com](https://www.linkedin.com/in/tarik-el-msaouri)" target="_blank">Linkedin</a>
+
 
 # I am currently a Mobile Developer - (Android / IOS) Flutter
 
