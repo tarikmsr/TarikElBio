@@ -13,5 +13,6 @@
 </a>
 
 
---
-[![](https://visitcount.itsvg.in/api?id=tarikmsr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tarikmsr&theme=dark&hide_border=false)<br/>
