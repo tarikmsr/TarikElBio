@@ -8,7 +8,7 @@
 
 # GitHub Stats:
 <a href="https://github.com/tarikmsr?tab=repositories">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarikmsr&&count_private=true&line_height=50&show_icons=true&theme=dark">   
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarikmsr&&count_private=true&line_height=55&show_icons=true&theme=dark">   
 </a>
 
 
