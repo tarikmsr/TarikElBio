@@ -1,4 +1,16 @@
 # A little more about me : 
+# &lt;clipboard-copy&gt; element
+2
+​
+3
+Copy element text content or input values to the clipboard.
+4
+​
+5
+## Installation
+```
+$ npm install --save @github/clipboard-copy-element
+```
 
 
 - 👋 Hi, I’m Tarik EL MSAOURI.
