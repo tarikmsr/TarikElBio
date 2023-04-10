@@ -5,7 +5,7 @@
 - 👀 I’m interested in Software Engineering / Mobile development .
 - 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri)
 ```
-$ https://www.linkedin.com/in/tarik-el-msaouri
+https://www.linkedin.com/in/tarik-el-msaouri
 ```
 
 # GitHub Stats:
