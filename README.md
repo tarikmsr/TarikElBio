@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m Tarik EL MSAOURI.
 - 👀 I’m interested in Software Engineering / Mobile development .
-- 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri)
+- 📫 To reach me on [Linkedin](https://www.linkedin.com/in/tarik-el-msaouri/?locale=en_US)
 ```
-https://www.linkedin.com/in/tarik-el-msaouri
+https://www.linkedin.com/in/tarik-el-msaouri/?locale=en_US
 ```
 
 # GitHub Stats:
