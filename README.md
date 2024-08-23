@@ -22,10 +22,3 @@ https://www.linkedin.com/in/tarik-el-msaouri/?locale=en_US
   <br>
 </p>
 
-
-<a href="https://github.com/tarikmsr?tab=repositories">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarikmsr&&count_private=true&line_height=55&show_icons=true&theme=dark">   
-</a>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tarikmsr&theme=dark&hide_border=false)<br/>
